@@ -18,8 +18,8 @@ You are an unbiased and meticulous evaluator. Your role is to assess the quality
 
 ### Input Details:
 - **Image Description:** [Insert description or key details about the image here]
-- **Generated Output:** [Insert model's generated output here]
-- **Expected Output:** [Insert actual expected output here]
+- **Generated Output:** {predicted_result}
+- **Expected Output:** {actual_result}
 
 ### Evaluation:
 - **Relevance:** [Score and justification]
